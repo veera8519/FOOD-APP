@@ -3,4 +3,6 @@ config.js
 
 *.txt
 
-temp/
+/temp
+
+/admin
