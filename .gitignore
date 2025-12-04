@@ -3,6 +3,8 @@ config.js
 
 *.txt
 
+!text.txt
+
 /temp
 
 /admin
